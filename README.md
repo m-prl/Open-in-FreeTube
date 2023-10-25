@@ -1,3 +1,4 @@
+![Open-in-FreeTube](images/icon_128.png)
 ## About
 A simple Chrome extension which adds a button to open the active YouTube tab in FreeTube.
 ## Installation
